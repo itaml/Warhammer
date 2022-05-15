@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:title="@string/ig"
+            android:id="@+id/id_ig"
+            android:icon="@drawable/ig"/>
+        <item android:title="@string/eldar"
+            android:id="@+id/id_eldar"
+            android:icon="@drawable/eldar"/>
+        <item android:title="@string/chaos"
+            android:id="@+id/id_chaos"
+            android:icon="@drawable/chaos"/>
+        <item android:title="@string/orks"
+            android:id="@+id/id_orks"
+            android:icon="@drawable/orks"/>
+
+    </group>
+</menu>

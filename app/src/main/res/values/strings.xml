@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Warhammer 40000</string>
+    <string name="ig">Имперская Гвардия</string>
+    <string name="eldar">Эльдар</string>
+    <string name="chaos">Космодесант Хаоса</string>
+    <string name="orks">Орки</string>
+</resources>
